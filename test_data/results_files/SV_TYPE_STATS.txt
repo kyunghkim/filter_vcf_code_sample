@@ -1,0 +1,7 @@
+                PRE_FILTERED  PRE_FILTERED  PRE_FILTERED        FILTER      FILTERED      FILTERED      FILTERED
+SV_TYPES            SV_COUNT    HOMOZYGOUS   SHARED(>=2)          RATE      SV_COUNT    HOMOZYGOUS   SHARED(>=2)
+================================================================================================================
+DELETIONS                961     958(99.7)     958(99.7)         100.0           961     961(99.7)     961(99.7)
+INSERTIONS                 0        0(0.0)        0(0.0)           0.0             0        0(0.0)        0(0.0)
+INVERSIONS                 8      8(100.0)      8(100.0)         100.0             8      8(100.0)      8(100.0)
+DUPLICATIONS              98     98(100.0)     98(100.0)         100.0            98     98(100.0)     98(100.0)

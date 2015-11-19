@@ -1,0 +1,1 @@
+../filter_lumpy_vcf.pl vcf_file=test.lumpy.vcf genes_bed_file=test.bed
